@@ -1,60 +1,54 @@
-ÔªøProvincia;Poblaci√≥n;N√∫mero de Fallecidos Anuales 2023;Condici√≥n Meteorol√≥gica Adversa;Nivel de Contaminaci√≥n (PM2,5);Nivel de Concienciaci√≥n Vial;Millones de euros en infraestructura vial
-Madrid;7058041;74;Lluvia;10,3;Bajo;450
-Barcelona;5924293;61;Lluvia;12,8;Moderado;400
-Valencia;2730314;44;Gota fr√≠a;9,7;Alto;200
-Alicante;2008809;30;Gota fr√≠a;9,5;Moderado;180
-Sevilla;1969075;28;Calor;11;Bajo;150
-M√°laga;1778275;33;Gota fr√≠a;9,3;Alto;160
-Murcia;1575171;39;Gota fr√≠a;10,3;Moderado;140
-C√°diz;1258881;21;Gota fr√≠a;7,8;Moderado;110
-Islas Baleares;1238812;41;Lluvia;9,3;Moderado;90
-Las Palmas;1164130;17;Gota fr√≠a;9,4;Bajo;100
-Vizcaya;1162054;17;Niebla;11,1;Bajo;80
-La Coru√±a;1130238;22;Niebla;11,1;Alto;95
-Santa Cruz de Tenerife;1082002;16;Gota fr√≠a;7,3;Moderado;80
-Asturias;1010058;34;Nieve;11,7;Alto;120
-Zaragoza;983347;24;Lluvia;8,6;Alto;130
-Pontevedra;947957;21;Lluvia;7,1;Bajo;110
-Granada;940974;27;Gota fr√≠a;14,4;Bajo;105
-Tarragona;866708;34;Lluvia;10,5;Moderado;90
-Gerona;824883;25;Lluvia;12,7;Bajo;85
-C√≥rdoba;770952;19;Lluvia;11,4;Bajo;70
-Almer√≠a;765128;25;Gota fr√≠a;11;Bajo;75
-Toledo;743810;23;Lluvia;10,9;Moderado;80
-Guip√∫zcoa;730835;20;Niebla;11,1;Bajo;65
-Navarra;680296;13;Lluvia;9,7;Bajo;60
-Badajoz;665069;32;Lluvia;6,8;Moderado;95
-Castell√≥n;620186;11;Gota fr√≠a;11,8;Moderado;80
-Ja√©n;618031;11;Calor;10,5;Bajo;60
-Cantabria;591546;14;Niebla;10,7;Bajo;70
-Huelva;535836;16;Lluvia;7,4;Bajo;60
-Valladolid;525897;11;Lluvia;8,4;Bajo;55
-Ciudad Real;492802;15;Lluvia;11,8;Bajo;50
-L√©rida;452296;24;Lluvia;12,6;Bajo;60
-Le√≥n;446326;25;Nieve;8,1;Bajo;55
-Albacete;389426;16;Lluvia;8,8;Bajo;50
-C√°ceres;386832;17;Lluvia;5,8;Bajo;45
-Burgos;359955;17;Nieve;7,1;Bajo;55
-√Ålava;340420;5;Niebla;5,6;Bajo;30
-Salamanca;327120;13;Lluvia;6,6;Bajo;40
-La Rioja;325264;11;Lluvia;8,1;Bajo;45
-Lugo;324520;16;Lluvia;8,5;Bajo;50
-Orense;304238;18;Lluvia;8,2;Bajo;50
-Guadalajara;282734;9;Lluvia;11,3;Bajo;30
-Huesca;229346;19;Nieve;12,6;Bajo;40
-Cuenca;198648;16;Lluvia;10,6;Bajo;35
-Zamora;165787;12;Lluvia;6,7;Bajo;30
-√Åvila;159803;11;Niebla;5,6;Bajo;25
-Palencia;158003;2;Niebla;6,8;Bajo;20
-Segovia;157299;10;Niebla;6,8;Bajo;25
-Teruel;135513;8;Niebla;7,3;Bajo;20
-Soria;90131;16;Niebla;7,1;Bajo;20
-Melilla;86418;0;Calor;9,4;Bajo;10
-Ceuta;83386;0;Calor;7,3;Bajo;10
-Guipuzcoa;730835;20;Niebla;11,1;Bajo;65
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
-;;;;;;
+Provincia	PoblaciÛn	N˙mero de Fallecidos Anuales 2023	CondiciÛn MeteorolÛgica Adversa	Nivel de ContaminaciÛn (PM2,5)	Nivel de ConcienciaciÛn Vial	Millones de euros en infraestructura vial
+Madrid	7058041	74	Lluvia	10,3	Bajo	450
+Barcelona	5924293	61	Lluvia	12,8	Moderado	400
+Valencia	2730314	44	Gota frÌa	9,7	Alto	200
+Alicante	2008809	30	Gota frÌa	9,5	Moderado	180
+Sevilla	1969075	28	Calor	11	Bajo	150
+M·laga	1778275	33	Gota frÌa	9,3	Alto	160
+Murcia	1575171	39	Gota frÌa	10,3	Moderado	140
+C·diz	1258881	21	Gota frÌa	7,8	Moderado	110
+Islas Baleares	1238812	41	Lluvia	9,3	Moderado	90
+Las Palmas	1164130	17	Gota frÌa	9,4	Bajo	100
+Vizcaya	1162054	17	Niebla	11,1	Bajo	80
+La CoruÒa	1130238	22	Niebla	11,1	Alto	95
+Santa Cruz de Tenerife	1082002	16	Gota frÌa	7,3	Moderado	80
+Asturias	1010058	34	Nieve	11,7	Alto	120
+Zaragoza	983347	24	Lluvia	8,6	Alto	130
+Pontevedra	947957	21	Lluvia	7,1	Bajo	110
+Granada	940974	27	Gota frÌa	14,4	Bajo	105
+Tarragona	866708	34	Lluvia	10,5	Moderado	90
+Gerona	824883	25	Lluvia	12,7	Bajo	85
+CÛrdoba	770952	19	Lluvia	11,4	Bajo	70
+AlmerÌa	765128	25	Gota frÌa	11	Bajo	75
+Toledo	743810	23	Lluvia	10,9	Moderado	80
+Guip˙zcoa	730835	20	Niebla	11,1	Bajo	65
+Navarra	680296	13	Lluvia	9,7	Bajo	60
+Badajoz	665069	32	Lluvia	6,8	Moderado	95
+CastellÛn	620186	11	Gota frÌa	11,8	Moderado	80
+JaÈn	618031	11	Calor	10,5	Bajo	60
+Cantabria	591546	14	Niebla	10,7	Bajo	70
+Huelva	535836	16	Lluvia	7,4	Bajo	60
+Valladolid	525897	11	Lluvia	8,4	Bajo	55
+Ciudad Real	492802	15	Lluvia	11,8	Bajo	50
+LÈrida	452296	24	Lluvia	12,6	Bajo	60
+LeÛn	446326	25	Nieve	8,1	Bajo	55
+Albacete	389426	16	Lluvia	8,8	Bajo	50
+C·ceres	386832	17	Lluvia	5,8	Bajo	45
+Burgos	359955	17	Nieve	7,1	Bajo	55
+¡lava	340420	5	Niebla	5,6	Bajo	30
+Salamanca	327120	13	Lluvia	6,6	Bajo	40
+La Rioja	325264	11	Lluvia	8,1	Bajo	45
+Lugo	324520	16	Lluvia	8,5	Bajo	50
+Orense	304238	18	Lluvia	8,2	Bajo	50
+Guadalajara	282734	9	Lluvia	11,3	Bajo	30
+Huesca	229346	19	Nieve	12,6	Bajo	40
+Cuenca	198648	16	Lluvia	10,6	Bajo	35
+Zamora	165787	12	Lluvia	6,7	Bajo	30
+¡vila	159803	11	Niebla	5,6	Bajo	25
+Palencia	158003	2	Niebla	6,8	Bajo	20
+Segovia	157299	10	Niebla	6,8	Bajo	25
+Teruel	135513	8	Niebla	7,3	Bajo	20
+Soria	90131	16	Niebla	7,1	Bajo	20
+Melilla	86418	0	Calor	9,4	Bajo	10
+Ceuta	83386	0	Calor	7,3	Bajo	10
+Guipuzcoa	730835	20	Niebla	11,1	Bajo	65
