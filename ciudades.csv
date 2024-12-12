@@ -1,62 +1,62 @@
 ﻿Nombre Ciudad;Nº Habitantes;Nº Accidentes Anuales;Condiciones Meteorológicas;Estado Infraestructura;Nivel de Contaminación;Nivel de Concienciación Vial
-A Coruña;250;300;Lluvia, Niebla;Buena;Alto;Medio
-Álava;330;350;Lluvia, Niebla;Media;Medio;Medio
-Albacete;170;180;Soleado, Lluvia;Media;Bajo;Bajo
-Alicante;340;250;Soleado, Lluvia, Calor intenso;Buena;Medio;Bajo
-Almería;200;200;Soleado, Calor intenso;Buena;Medio;Bajo
-Asturias;100;1,1;Lluvia, Niebla, Nieve;Buena;Alto;Medio
-Ávila;60;60;Soleado, Nieve, Lluvia;Buena;Medio;Medio
-Badajoz;150;250;Soleado, Lluvia;Buena;Medio;Bajo
-Barcelona;1600;900;Soleado, Lluvia, Viento;Media;Alto;Medio
-Burgos;175;200;Lluvia, Niebla, Nieve;Buena;Medio;Medio
-Cáceres;100;120;Soleado, Lluvia;Buena;Bajo;Alto
-Cádiz;120;150;Soleado, Lluvia;Buena;Medio;Alto
-Cantabria;600;600;Lluvia, Niebla;Buena;Alto;Medio
-Castellón;170;180;Soleado, Lluvia;Media;Medio;Bajo
-Ceuta;85;80;Soleado, Lluvia;Buena;Medio;Bajo
-Ciudad Real;200;250;Soleado, Lluvia;Buena;Medio;Bajo
-Córdoba;330;400;Soleado, Calor intenso, Lluvia;Mala;Alto;Bajo
-Cuenca;55;60;Soleado, Lluvia, Niebla;Buena;Bajo;Bajo
-Formentera;12;10;Soleado, Lluvia;Buena;Medio;Alto
-Girona;100;120;Soleado, Lluvia;Buena;Medio;Medio
-Granada;250;200;Soleado, Niebla, Lluvia;Buena;Bajo;Alto
-Guadalajara;80;100;Soleado, Lluvia;Buena;Bajo;Bajo
-Guipúzcoa;900;700;Lluvia, Niebla;Buena;Medio;Alto
-Huelva;150;200;Soleado, Lluvia;Buena;Medio;Medio
-Huesca;50;60;Soleado, Lluvia;Buena;Bajo;Bajo
-Ibiza;150;180;Soleado, Lluvia;Buena;Medio;Medio
-Jaén;160;180;Soleado, Lluvia;Buena;Medio;Bajo
-La Rioja;300;320;Soleado, Lluvia, Niebla;Buena;Medio;Medio
-Las Palmas de Gran Canaria;400;350;Soleado, Lluvia;Buena;Medio;Bajo
-Gran Canaria;800;750;Lluvia, Niebla;Mala;Alto;Bajo
-Fuerteventura;120;150;Soleado, Lluvia;Buena;Medio;Bajo
-Lanzarote;150;180;Soleado, Lluvia;Buena;Medio;Bajo
-León;125;130;Lluvia, Niebla, Nieve;Buena;Medio;Bajo
-Lérida;150;120;Soleado, Lluvia;Buena;Medio;Medio
-Lugo;100;90;Lluvia, Niebla;Buena;Medio;Bajo
-Madrid;3,2;1,2;Soleado, Lluvia, Nieve;Buena;Alto;Alto
-Málaga;600;600;Soleado, Lluvia;Buena;Medio;Alto
-Mallorca;900;800;Soleado, Lluvia;Buena;Medio;Medio
-Menorca;100;80;Soleado, Lluvia;Buena;Bajo;Bajo
-Murcia;450;500;Soleado, Lluvia;Buena;Medio;Bajo
-Navarra;600;650;Lluvia, Niebla, Nieve;Media;Medio;Medio
-Orense;100;120;Lluvia, Niebla;Buena;Medio;Bajo
-Palencia;75;80;Soleado, Lluvia;Buena;Bajo;Medio
-Pontevedra;100;120;Lluvia, Niebla;Buena;Medio;Bajo
-Salamanca;150;130;Soleado, Lluvia;Buena;Medio;Bajo
-Santa Cruz de Tenerife;220;250;Soleado, Lluvia;Buena;Medio;Bajo
-Tenerife;900;800;Soleado, Lluvia;Buena;Medio;Medio
-La Gomera;20;30;Soleado, Lluvia;Buena;Bajo;Medio
-La Palma;85;100;Soleado, Lluvia;Buena;Bajo;Bajo
-El Hierro;10;15;Soleado, Lluvia;Buena;Bajo;Bajo
-Segovia;60;70;Soleado, Nieve, Lluvia;Buena;Bajo;Medio
-Sevilla;1500;1;Soleado, Lluvia, Calor intenso;Mala;Alto;Bajo
-Soria;40;50;Nieve, Lluvia;Buena;Bajo;Medio
-Tarragona;150;200;Soleado, Lluvia;Buena;Medio;Bajo
-Teruel;35;40;Soleado, Nieve, Lluvia;Buena;Bajo;Bajo
-Toledo;85;90;Soleado, Lluvia;Buena;Bajo;Alto
-Valencia;800;650;Soleado, Lluvia;Buena;Medio;Bajo
-Valladolid;310;350;Lluvia, Niebla;Media;Medio;Bajo
-Vizcaya;1100;1;Lluvia, Niebla;Buena;Medio;Alto
-Zamora;60;70;Soleado, Lluvia;Buena;Bajo;Bajo
-Zaragoza;700;650;Soleado, Lluvia, Viento;Media;Medio;Bajo
+A Coruña;250;300;[Lluvia, Niebla];Buena;Alto;Medio
+Álava;330;350;[Lluvia, Niebla];Media;Medio;Medio
+Albacete;170;180;[Soleado, Lluvia];Media;Bajo;Bajo
+Alicante;340;250;[Soleado, Lluvia, Calor intenso];Buena;Medio;Bajo
+Almería;200;200;[Soleado, Calor intenso];Buena;Medio;Bajo
+Asturias;100;1,1;[Lluvia, Niebla, Nieve];Buena;Alto;Medio
+Ávila;60;60;[Soleado, Nieve, Lluvia];Buena;Medio;Medio
+Badajoz;150;250;[Soleado, Lluvia];Buena;Medio;Bajo
+Barcelona;1600;900;[Soleado, Lluvia, Viento];Media;Alto;Medio
+Burgos;175;200;[Lluvia, Niebla, Nieve];Buena;Medio;Medio
+Cáceres;100;120;[Soleado, Lluvia];Buena;Bajo;Alto
+Cádiz;120;150;[Soleado, Lluvia];Buena;Medio;Alto
+Cantabria;600;600;[Lluvia, Niebla];Buena;Alto;Medio
+Castellón;170;180;[Soleado, Lluvia];Media;Medio;Bajo
+Ceuta;85;80;[Soleado, Lluvia];Buena;Medio;Bajo
+Ciudad Real;200;250;[Soleado, Lluvia];Buena;Medio;Bajo
+Córdoba;330;400;[Soleado, Calor intenso, Lluvia];Mala;Alto;Bajo
+Cuenca;55;60;[Soleado, Lluvia, Niebla];Buena;Bajo;Bajo
+Formentera;12;10;[Soleado, Lluvia];Buena;Medio;Alto
+Girona;100;120;[Soleado, Lluvia];Buena;Medio;Medio
+Granada;250;200;[Soleado, Niebla, Lluvia];Buena;Bajo;Alto
+Guadalajara;80;100;[Soleado, Lluvia];Buena;Bajo;Bajo
+Guipúzcoa;900;700;[Lluvia, Niebla];Buena;Medio;Alto
+Huelva;150;200;[Soleado, Lluvia];Buena;Medio;Medio
+Huesca;50;60;[Soleado, Lluvia];Buena;Bajo;Bajo
+Ibiza;150;180;[Soleado, Lluvia];Buena;Medio;Medio
+Jaén;160;180;[Soleado, Lluvia];Buena;Medio;Bajo
+La Rioja;300;320;[Soleado, Lluvia, Niebla];Buena;Medio;Medio
+Las Palmas de Gran Canaria;400;350;[Soleado, Lluvia];Buena;Medio;Bajo
+Gran Canaria;800;750;[Lluvia, Niebla];Mala;Alto;Bajo
+Fuerteventura;120;150;[Soleado, Lluvia];Buena;Medio;Bajo
+Lanzarote;150;180;[Soleado, Lluvia];Buena;Medio;Bajo
+León;125;130;[Lluvia, Niebla, Nieve];Buena;Medio;Bajo
+Lérida;150;120;[Soleado, Lluvia];Buena;Medio;Medio
+Lugo;100;90;[Lluvia, Niebla];Buena;Medio;Bajo
+Madrid;3,2;1,2;[Soleado, Lluvia, Nieve];Buena;Alto;Alto
+Málaga;600;600;[Soleado, Lluvia];Buena;Medio;Alto
+Mallorca;900;800;[Soleado, Lluvia];Buena;Medio;Medio
+Menorca;100;80;[Soleado, Lluvia];Buena;Bajo;Bajo
+Murcia;450;500;[Soleado, Lluvia];Buena;Medio;Bajo
+Navarra;600;650;[Lluvia, Niebla, Nieve];Media;Medio;Medio
+Orense;100;120;[Lluvia, Niebla];Buena;Medio;Bajo
+Palencia;75;80;[Soleado, Lluvia];Buena;Bajo;Medio
+Pontevedra;100;120;[Lluvia, Niebla];Buena;Medio;Bajo
+Salamanca;150;130;[Soleado, Lluvia];Buena;Medio;Bajo
+Santa Cruz de Tenerife;220;250;[Soleado, Lluvia];Buena;Medio;Bajo
+Tenerife;900;800;[Soleado, Lluvia];Buena;Medio;Medio
+La Gomera;20;30;[Soleado, Lluvia];Buena;Bajo;Medio
+La Palma;85;100;[Soleado, Lluvia];Buena;Bajo;Bajo
+El Hierro;10;15;[Soleado, Lluvia];Buena;Bajo;Bajo
+Segovia;60;70;[Soleado, Nieve, Lluvia];Buena;Bajo;Medio
+Sevilla;1500;1;[Soleado, Lluvia, Calor intenso];Mala;Alto;Bajo
+Soria;40;50;[Nieve, Lluvia];Buena;Bajo;Medio
+Tarragona;150;200;[Soleado, Lluvia];Buena;Medio;Bajo
+Teruel;35;40;[Soleado, Nieve, Lluvia];Buena;Bajo;Bajo
+Toledo;85;90;[Soleado, Lluvia];Buena;Bajo;Alto
+Valencia;800;650;[Soleado, Lluvia];Buena;Medio;Bajo
+Valladolid;310;350;[Lluvia, Niebla];Media;Medio;Bajo
+Vizcaya;1100;1;[Lluvia, Niebla];Buena;Medio;Alto
+Zamora;60;70;[Soleado, Lluvia];Buena;Bajo;Bajo
+Zaragoza;700;650;[Soleado, Lluvia, Viento];Media;Medio;Bajo
