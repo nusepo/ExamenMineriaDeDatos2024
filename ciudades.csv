@@ -1,59 +1,59 @@
 ﻿Provincia;Población;Número de Fallecidos Anuales 2023;Condición Meteorológica Adversa;Nivel de Contaminación (PM2,5);Nivel de Concienciación Vial;Millones de euros en infraestructura vial
-Madrid;7058041,00;74;Lluvia;10,30;Bajo;450
-Barcelona;5924293,00;61;Lluvia;12,80;Moderado;400
-Valencia;2730314,00;44;Gota fría;9,70;Alto;200
-Alicante;2008809,00;30;Gota fría;9,50;Moderado;180
-Sevilla;1969075,00;28;Calor;11,00;Bajo;150
-Málaga;1778275,00;33;Gota fría;9,30;Alto;160
-Murcia;1575171,00;39;Gota fría;10,30;Moderado;140
-Cádiz;1258881,00;21;Gota fría;7,80;Moderado;110
-Islas Baleares;1238812,00;41;Lluvia;9,30;Moderado;90
-Las Palmas;1164130,00;17;Gota fría;9,40;Bajo;100
-Vizcaya;1162054,00;17;Niebla;11,10;Bajo;80
-La Coruña;1130238,00;22;Niebla;11,10;Alto;95
-Santa Cruz de Tenerife;1082002,00;16;Gota fría;7,30;Moderado;80
-Asturias;1010058,00;34;Nieve;11,70;Alto;120
-Zaragoza;983347,00;24;Lluvia;8,60;Alto;130
-Pontevedra;947957,00;21;Lluvia;7,10;Bajo;110
-Granada;940974,00;27;Gota fría;14,40;Bajo;105
-Tarragona;866708,00;34;Lluvia;10,50;Moderado;90
-Gerona;824883,00;25;Lluvia;12,70;Bajo;85
-Córdoba;770952,00;19;Lluvia;11,40;Bajo;70
-Almería;765128,00;25;Gota fría;11,00;Bajo;75
-Toledo;743810,00;23;Lluvia;10,90;Moderado;80
-Guipúzcoa;730835,00;20;Niebla;11,10;Bajo;65
-Navarra;680296,00;13;Lluvia;9,70;Bajo;60
-Badajoz;665069,00;32;Lluvia;6,80;Moderado;95
-Castellón;620186,00;11;Gota fría;11,80;Moderado;80
-Jaén;618031,00;11;Calor;10,50;Bajo;60
-Cantabria;591546,00;14;Niebla;10,70;Bajo;70
-Huelva;535836,00;16;Lluvia;7,40;Bajo;60
-Valladolid;525897,00;11;Lluvia;8,40;Bajo;55
-Ciudad Real;492802,00;15;Lluvia;11,80;Bajo;50
-Lérida;452296,00;24;Lluvia;12,60;Bajo;60
-León;446326,00;25;Nieve;8,10;Bajo;55
-Albacete;389426,00;16;Lluvia;8,80;Bajo;50
-Cáceres;386832,00;17;Lluvia;5,80;Bajo;45
-Burgos;359955,00;17;Nieve;7,10;Bajo;55
-Álava;340420,00;5;Niebla;5,60;Bajo;30
-Salamanca;327120,00;13;Lluvia;6,60;Bajo;40
-La Rioja;325264,00;11;Lluvia;8,10;Bajo;45
-Lugo;324520,00;16;Lluvia;8,50;Bajo;50
-Orense;304238,00;18;Lluvia;8,20;Bajo;50
-Guadalajara;282734,00;9;Lluvia;11,30;Bajo;30
-Huesca;229346,00;19;Nieve;12,60;Bajo;40
-Cuenca;198648,00;16;Lluvia;10,60;Bajo;35
-Zamora;165787,00;12;Lluvia;6,70;Bajo;30
-Ávila;159803,00;11;Niebla;5,60;Bajo;25
-Palencia;158003,00;2;Niebla;6,80;Bajo;20
-Segovia;157299,00;10;Niebla;6,80;Bajo;25
-Teruel;135513,00;8;Niebla;7,30;Bajo;20
-Soria;90131,00;16;Niebla;7,10;Bajo;20
-Melilla;86418,00;0;Calor;9,40;Bajo;10
-Ceuta;83386,00;0;Calor;7,30;Bajo;10
+Madrid;7058041;74;Lluvia;10,3;Bajo;450
+Barcelona;5924293;61;Lluvia;12,8;Moderado;400
+Valencia;2730314;44;Gota fría;9,7;Alto;200
+Alicante;2008809;30;Gota fría;9,5;Moderado;180
+Sevilla;1969075;28;Calor;11;Bajo;150
+Málaga;1778275;33;Gota fría;9,3;Alto;160
+Murcia;1575171;39;Gota fría;10,3;Moderado;140
+Cádiz;1258881;21;Gota fría;7,8;Moderado;110
+Islas Baleares;1238812;41;Lluvia;9,3;Moderado;90
+Las Palmas;1164130;17;Gota fría;9,4;Bajo;100
+Vizcaya;1162054;17;Niebla;11,1;Bajo;80
+La Coruña;1130238;22;Niebla;11,1;Alto;95
+Santa Cruz de Tenerife;1082002;16;Gota fría;7,3;Moderado;80
+Asturias;1010058;34;Nieve;11,7;Alto;120
+Zaragoza;983347;24;Lluvia;8,6;Alto;130
+Pontevedra;947957;21;Lluvia;7,1;Bajo;110
+Granada;940974;27;Gota fría;14,4;Bajo;105
+Tarragona;866708;34;Lluvia;10,5;Moderado;90
+Gerona;824883;25;Lluvia;12,7;Bajo;85
+Córdoba;770952;19;Lluvia;11,4;Bajo;70
+Almería;765128;25;Gota fría;11;Bajo;75
+Toledo;743810;23;Lluvia;10,9;Moderado;80
+Guipúzcoa;730835;20;Niebla;11,1;Bajo;65
+Navarra;680296;13;Lluvia;9,7;Bajo;60
+Badajoz;665069;32;Lluvia;6,8;Moderado;95
+Castellón;620186;11;Gota fría;11,8;Moderado;80
+Jaén;618031;11;Calor;10,5;Bajo;60
+Cantabria;591546;14;Niebla;10,7;Bajo;70
+Huelva;535836;16;Lluvia;7,4;Bajo;60
+Valladolid;525897;11;Lluvia;8,4;Bajo;55
+Ciudad Real;492802;15;Lluvia;11,8;Bajo;50
+Lérida;452296;24;Lluvia;12,6;Bajo;60
+León;446326;25;Nieve;8,1;Bajo;55
+Albacete;389426;16;Lluvia;8,8;Bajo;50
+Cáceres;386832;17;Lluvia;5,8;Bajo;45
+Burgos;359955;17;Nieve;7,1;Bajo;55
+Álava;340420;5;Niebla;5,6;Bajo;30
+Salamanca;327120;13;Lluvia;6,6;Bajo;40
+La Rioja;325264;11;Lluvia;8,1;Bajo;45
+Lugo;324520;16;Lluvia;8,5;Bajo;50
+Orense;304238;18;Lluvia;8,2;Bajo;50
+Guadalajara;282734;9;Lluvia;11,3;Bajo;30
+Huesca;229346;19;Nieve;12,6;Bajo;40
+Cuenca;198648;16;Lluvia;10,6;Bajo;35
+Zamora;165787;12;Lluvia;6,7;Bajo;30
+Ávila;159803;11;Niebla;5,6;Bajo;25
+Palencia;158003;2;Niebla;6,8;Bajo;20
+Segovia;157299;10;Niebla;6,8;Bajo;25
+Teruel;135513;8;Niebla;7,3;Bajo;20
+Soria;90131;16;Niebla;7,1;Bajo;20
+Melilla;86418;0;Calor;9,4;Bajo;10
+Ceuta;83386;0;Calor;7,3;Bajo;10
+Guipuzcoa;730835;20;Niebla;11,1;Bajo;65
 ;;;;;;
 ;;;;;;
-;;;;;;#¿NOMBRE?
 ;;;;;;
 ;;;;;;
 ;;;;;;
