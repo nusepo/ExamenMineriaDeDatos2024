@@ -17,7 +17,7 @@ Zaragoza;983347;24;Lluvia;8,6;Alto;130
 Pontevedra;1047957;21;Lluvia;7,1;Bajo;210
 Granada;940974;27;Gota fría;14,4;Bajo;305
 Tarragona;866708;34;Lluvia;10,5;Moderado;390
-Gerona;824883;25;Lluvia;12,7;Bajo;85
+Gerona;824883;25;Lluvia;12,7;Bajo;285
 Córdoba;770952;19;Lluvia;11,4;Bajo;270
 Almería;765128;25;Gota fría;11;Bajo;275
 Toledo;743810;23;Lluvia;10,9;Moderado;280
@@ -49,6 +49,6 @@ Palencia;108003;2;Niebla;6,8;Bajo;20
 Segovia;157299;10;Niebla;6,8;Bajo;25
 Teruel;135513;8;Niebla;7,3;Bajo;20
 Soria;80131;16;Niebla;7,1;Bajo;20
-Melilla;86418;1;Calor;9,4;Bajo;10
-Ceuta;83386;1;Calor;7,3;Bajo;10
-GUIPUZCOA;730835;20;Niebla;11,1;Bajo;65
+Melilla;66418;1;Calor;9,4;Bajo;180
+Ceuta;63386;1;Calor;7,3;Bajo;190
+GUIPUZCOA;730835;20;Niebla;11,1;Bajo;265
